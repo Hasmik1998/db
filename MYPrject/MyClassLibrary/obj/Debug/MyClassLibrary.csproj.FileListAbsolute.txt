@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\User\source\repos\Myprject\MyClassLibrary\bin\Debug\MyClassLibrary.dll.config
+C:\Users\User\source\repos\Myprject\MyClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Myprject\MyClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Myprject\MyClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Myprject\MyClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Myprject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.Migrations.InitialCreate.resources
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MYPrject\MyClassLibrary\obj\Debug\MyClassLibrary.Migrations.changes.resources

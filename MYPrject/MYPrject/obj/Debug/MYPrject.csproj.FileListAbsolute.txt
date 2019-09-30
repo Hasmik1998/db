@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MYPrject\MYPrject\bin\Debug\MYPrject.exe.config
+C:\Users\User\source\repos\MYPrject\MYPrject\bin\Debug\MYPrject.exe
+C:\Users\User\source\repos\MYPrject\MYPrject\bin\Debug\MYPrject.pdb
+C:\Users\User\source\repos\MYPrject\MYPrject\bin\Debug\MyClassLibrary.dll
+C:\Users\User\source\repos\MYPrject\MYPrject\bin\Debug\MyClassLibrary.pdb
+C:\Users\User\source\repos\MYPrject\MYPrject\obj\Debug\MYPrject.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MYPrject\MYPrject\obj\Debug\MYPrject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MYPrject\MYPrject\obj\Debug\MYPrject.csproj.CopyComplete
+C:\Users\User\source\repos\MYPrject\MYPrject\obj\Debug\MYPrject.exe
+C:\Users\User\source\repos\MYPrject\MYPrject\obj\Debug\MYPrject.pdb
+C:\Users\User\source\repos\Myprject\MYPrject\bin\Debug\MyClassLibrary.dll.config
